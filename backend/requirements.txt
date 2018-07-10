@@ -1,7 +1,7 @@
 django==2.0.7
 psycopg2==2.7.5
 requests==2.19.1
-jsonfield==1.0.3 # temp till D1.9 is released
+jsonfield==2.0.2 # temp till D1.9 is released
 django-filter==0.15.3
 Pillow==4.1.1 # not auto-installed by some environments
 pandas==0.17.1

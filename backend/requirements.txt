@@ -8,7 +8,7 @@ pandas==0.23.3
 pandas_market_calendars==0.19
 enum34==1.1.6
 
-pyjwt==1.5.0
+pyjwt==1.6.4
 Faker==0.7.11
 
 raven==6.1.0

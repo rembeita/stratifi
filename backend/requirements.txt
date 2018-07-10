@@ -52,7 +52,7 @@ sendgrid==5.4.1
 hellosign-python-sdk>=3.8.5
 
 # misc
-django-localflavor==1.5
+django-localflavor==2.0
 django-model-utils==2.3.1
 django-notifications-hq==1.1
 django-extensions==1.7.9 # to visualize models

@@ -53,7 +53,7 @@ hellosign-python-sdk>=3.8.5
 
 # misc
 django-localflavor==2.0
-django-model-utils==2.3.1
+django-model-utils==3.1.2
 django-notifications-hq==1.1
 django-extensions==1.7.9 # to visualize models
 django-split-settings==0.1.3

@@ -44,7 +44,7 @@ dj-static>=0.0.6
 
 # files/images upload (Amazon S3)
 boto>=2.36.0
-django-storages==1.5.2
+django-storages==1.6.6
 django-imagekit==4.0.1
 
 # integrations

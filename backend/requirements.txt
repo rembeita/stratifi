@@ -71,7 +71,7 @@ reportlab==3.4.0
 PyPDF2==1.26.0
 
 #testing
-pytest==3.2.3
+pytest==3.6.3
 pytest-cov==2.5.1
 pytest-cover==3.0.0
 pytest-coverage==0.0

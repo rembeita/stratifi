@@ -58,7 +58,7 @@ django-notifications-hq==1.5.0
 django-extensions==2.0.7 # to visualize models
 django-split-settings==0.3.0
 django-inlinecss==0.1.2
-django-object-actions==0.10.0
+django-object-actions==1.0.0
 openpyxl==2.4.8 # not good that we use so heavy and rarely used modules for the platform
 
 # performance profiling

@@ -75,7 +75,7 @@ pytest==3.6.3
 pytest-cov==2.5.1
 pytest-cover==3.0.0
 pytest-coverage==0.0.1
-pytest-django==3.1.2
+pytest-django==3.3.2
 pytest-env==0.6.2
 factory_boy==2.8.1
 six==1.11.0

@@ -48,3 +48,8 @@ boto3==1.4.7
 raven[flask]==6.1.0
 ddtrace==0.10.0
 -e git+https://github.com/StratiFi/financial-engineering.git#egg=fineng
+-r common.txt
+Nose==1.3.7
+pydevd==0.0.6
+flask-debugtoolbar
+-r common.txt

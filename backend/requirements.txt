@@ -81,7 +81,7 @@ factory_boy==2.11.1
 six==1.11.0
 
 #statistical analysis
-empyrical==0.2.0
+empyrical==0.5.0
 
 #UML
 pyparsing==1.5.7

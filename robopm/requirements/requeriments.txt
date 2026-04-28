@@ -41,7 +41,7 @@ sendgrid==3.0.0
 empyrical==0.2.0
 pykalman==0.9.5
 fuzzywuzzy==0.14.0
-lxml==3.6.4
+lxml==6.1.0
 mock==2.0.0
 factory-boy==2.8.1
 boto3==1.4.7

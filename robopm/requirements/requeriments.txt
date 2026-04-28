@@ -40,7 +40,7 @@ plotly==1.10.0
 sendgrid==3.0.0
 empyrical==0.2.0
 pykalman==0.9.5
-fuzzywuzzy==0.14.0
+fuzzywuzzy==0.18.0
 lxml==3.6.4
 mock==2.0.0
 factory-boy==2.8.1

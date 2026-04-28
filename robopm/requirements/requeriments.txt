@@ -28,7 +28,7 @@ webargs==1.2.0
 apispec==0.6.0
 flask-apispec==0.3.2
 simplejson==3.8.2
-pysqlite==2.8.1
+pysqlite==2.8.3
 statsmodels==0.6.1
 Flask-Security==1.7.5
 Flask-Collect==1.2.2

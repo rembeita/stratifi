@@ -14,7 +14,7 @@ Flask-Migrate==1.7.0
 flask-marshmallow==0.6.2
 marshmallow-sqlalchemy==0.8.0
 coverage==4.4.1
-Flask-Fixtures==0.3.3
+Flask-Fixtures==0.3.8
 Flask-Testing==0.4.2
 Flask-Limiter==0.9.5
 numpy==1.10.4

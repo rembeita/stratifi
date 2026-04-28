@@ -21,7 +21,7 @@ numpy==1.10.4
 scipy==0.19.1
 pandas==0.17.1
 pandas-datareader==0.2.1
-pandas_market_calendars==0.9
+pandas_market_calendars==5.3.2
 requests[security]==2.9.1
 Quandl==2.8.9
 webargs==1.2.0

@@ -6,7 +6,7 @@ django-filter==0.15.3
 Pillow==4.1.1 # not auto-installed by some environments
 pandas==0.17.1
 pandas_market_calendars==0.9
-enum34==1.1.6
+enum34==1.1.10
 
 pyjwt==1.5.0
 Faker==0.7.11

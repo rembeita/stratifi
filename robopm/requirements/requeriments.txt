@@ -36,7 +36,7 @@ pyodbc==3.0.10
 unicodecsv==0.14.1
 marshmallow==2.7.1
 PyYAML==3.11
-plotly==1.10.0
+plotly==6.7.0
 sendgrid==3.0.0
 empyrical==0.2.0
 pykalman==0.9.5

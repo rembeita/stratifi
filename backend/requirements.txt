@@ -63,7 +63,7 @@ openpyxl==2.4.8 # not good that we use so heavy and rarely used modules for the 
 
 # performance profiling
 django-debug-toolbar==1.5
-pympler==0.5
+pympler==1.1
 ddtrace==0.10.0
 
 # pdf

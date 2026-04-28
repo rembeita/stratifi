@@ -85,5 +85,5 @@ empyrical==0.2.0
 
 #UML
 pyparsing==1.5.7
-graphviz
+graphviz==0.21
 pydot

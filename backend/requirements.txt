@@ -84,6 +84,6 @@ six==1.11.0
 empyrical==0.2.0
 
 #UML
-pyparsing==1.5.7
+pyparsing==3.3.2
 graphviz
 pydot

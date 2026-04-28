@@ -34,7 +34,7 @@ Flask-Security==1.7.5
 Flask-Collect==1.2.2
 pyodbc==3.0.10
 unicodecsv==0.14.1
-marshmallow==2.7.1
+marshmallow==4.3.0
 PyYAML==3.11
 plotly==1.10.0
 sendgrid==3.0.0

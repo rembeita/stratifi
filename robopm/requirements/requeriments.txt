@@ -27,7 +27,7 @@ Quandl==2.8.9
 webargs==1.2.0
 apispec==0.6.0
 flask-apispec==0.3.2
-simplejson==3.8.2
+simplejson==4.1.1
 pysqlite==2.8.1
 statsmodels==0.6.1
 Flask-Security==1.7.5

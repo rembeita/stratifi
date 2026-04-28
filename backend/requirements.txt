@@ -67,7 +67,7 @@ pympler==0.5
 ddtrace==0.10.0
 
 # pdf
-reportlab==3.4.0
+reportlab==4.4.10
 PyPDF2==1.26.0
 
 #testing

@@ -62,7 +62,7 @@ django-object-actions==0.10.0
 openpyxl==2.4.8 # not good that we use so heavy and rarely used modules for the platform
 
 # performance profiling
-django-debug-toolbar==1.5
+django-debug-toolbar==6.3.0
 pympler==0.5
 ddtrace==0.10.0
 

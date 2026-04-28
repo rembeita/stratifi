@@ -30,7 +30,7 @@ flask-apispec==0.3.2
 simplejson==3.8.2
 pysqlite==2.8.1
 statsmodels==0.6.1
-Flask-Security==1.7.5
+Flask-Security==5.8.0
 Flask-Collect==1.2.2
 pyodbc==3.0.10
 unicodecsv==0.14.1

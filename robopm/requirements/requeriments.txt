@@ -37,7 +37,7 @@ unicodecsv==0.14.1
 marshmallow==2.7.1
 PyYAML==3.11
 plotly==1.10.0
-sendgrid==3.0.0
+sendgrid==6.12.5
 empyrical==0.2.0
 pykalman==0.9.5
 fuzzywuzzy==0.14.0

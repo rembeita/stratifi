@@ -35,7 +35,7 @@ Flask-Collect==1.2.2
 pyodbc==3.0.10
 unicodecsv==0.14.1
 marshmallow==2.7.1
-PyYAML==3.11
+PyYAML==6.0.3
 plotly==1.10.0
 sendgrid==3.0.0
 empyrical==0.2.0

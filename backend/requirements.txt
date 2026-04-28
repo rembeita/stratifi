@@ -48,7 +48,7 @@ django-storages==1.5.2
 django-imagekit==4.0.1
 
 # integrations
-sendgrid
+sendgrid==6.12.5
 hellosign-python-sdk>=3.8.5
 
 # misc

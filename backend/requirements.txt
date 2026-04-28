@@ -78,7 +78,7 @@ pytest-coverage==0.0
 pytest-django==3.1.2
 pytest-env==0.6.2
 factory_boy==2.8.1
-six==1.11.0
+six==1.17.0
 
 #statistical analysis
 empyrical==0.2.0

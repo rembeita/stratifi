@@ -68,7 +68,7 @@ ddtrace==0.10.0
 
 # pdf
 reportlab==3.4.0
-PyPDF2==1.26.0
+PyPDF2==3.0.1
 
 #testing
 pytest==3.2.3

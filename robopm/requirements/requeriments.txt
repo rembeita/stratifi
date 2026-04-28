@@ -23,7 +23,7 @@ pandas==0.17.1
 pandas-datareader==0.2.1
 pandas_market_calendars==0.9
 requests[security]==2.9.1
-Quandl==2.8.9
+Quandl==3.7.0
 webargs==1.2.0
 apispec==0.6.0
 flask-apispec==0.3.2
